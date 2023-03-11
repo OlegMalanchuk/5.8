@@ -1,26 +1,22 @@
 public class Main {
     public static void main(String[] args) {
-        /*
-        System.out.println(1 + " - № завдання" + "\n");
-        int n = 50;
-        if (n <= 50) {
-            System.out.println("Число " + n + " не міститься на проміжку (50:100)");
-        } else if (n >= 100) {
-            System.out.println("Число " + n + " не міститься на проміжку (50:100)");
-        } else {
-            System.out.println("Число " + n + " є на проміжку (50:100)");
-        }
-         */
 
+//        System.out.println(1 + " - № завдання" + "\n");
+//        int n = 50;
+//        if (n <= 50) {
+//            System.out.println("Число " + n + " не міститься на проміжку (50:100)");
+//        } else if (n >= 100) {
+//            System.out.println("Число " + n + " не міститься на проміжку (50:100)");
+//        } else {
+//            System.out.println("Число " + n + " є на проміжку (50:100)");
+//        }
 
 //        System.out.println(2 + " - № завдання" + "\n");
 //        int n = 345;
 //        int a = n / 100;
 //        int b = n / 10 % 10;
 //        int c = n % 10;
-//        System.out.println(a);
-//        System.out.println(b);
-//        System.out.println(c +"\n");
+//        System.out.println(a+"\n"+b+"\n"+c);
 //
 //        if ((a > b) & (a > c)) {
 //            System.out.println("перше число найбільше ");
@@ -129,16 +125,15 @@ public class Main {
 //        int min = Math.min(Math.min(a,b),Math.min(b,c));
 //        int max = Math.max(Math.max(a,b),Math.max(b,c));
 //        int mid ;
-//        if (a > min && a <max){
+//        if (a > min && a < max){
 //            mid = a;
 //        } else if (b > min && b <max) {
 //            mid = b;
 //        }else {
 //            mid = c;
 //        }
-//        System.out.println(min);
-//        System.out.println(mid);
-//        System.out.println(max);
+//        System.out.println("min = "+ min + "; mid = "+ mid+ "; max = "+max+";");
+
 
 //        System.out.println(6 + " - № завдання" + "\n");
 //        short time_sec = 2;
